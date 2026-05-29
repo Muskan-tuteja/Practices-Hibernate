@@ -13,7 +13,7 @@
         </property>
 
         <property name="hibernate.connection.url">
-            jdbc:postgresql://localhost:5432/student_db
+            jdbc:postgresql://localhost:5432/hibernate_db
         </property>
 
         <property name="hibernate.connection.username">

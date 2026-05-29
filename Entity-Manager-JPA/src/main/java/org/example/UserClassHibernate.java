@@ -26,6 +26,9 @@ public class UserClassHibernate {
 
 
     }
+    public UserClassHibernate(String name) {
+        this.name = name;
+    }
 
     public Long getId() {
         return id;
